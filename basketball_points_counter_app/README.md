@@ -1,6 +1,6 @@
 # basketball_points_counter_app
 
-A new Flutter project.
+A new Flutter project shows the record of two teams in a basketball game.
 
 ## Getting Started
 
