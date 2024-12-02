@@ -1,6 +1,6 @@
 # birthday_card_app
 
-A new Flutter project.
+A new Flutter project shows a birthday card.
 
 ## Getting Started
 
