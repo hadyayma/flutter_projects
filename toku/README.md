@@ -1,6 +1,6 @@
 # toku
 
-A new Flutter project.
+A new Flutter project helps to learn a new language.
 
 ## Getting Started
 
