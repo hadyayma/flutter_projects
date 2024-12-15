@@ -1,6 +1,6 @@
 # tune_player_app
 
-A new Flutter project.
+A new Flutter project shows a musical tunes.
 
 ## Getting Started
 
